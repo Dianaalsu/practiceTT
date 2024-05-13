@@ -2,6 +2,7 @@ package ifElse;
 
 public class Example {
     public static void main(String[] args) {
+    //diana
         int number = 10;
         if (number % 2 == 0) {
             System.out.println(number + " является четным числом.");
